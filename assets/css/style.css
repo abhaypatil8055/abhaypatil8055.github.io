@@ -339,7 +339,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 56px;
   text-transform: uppercase;
   color: #fff;
-  font-family: cursive;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #hero h2 {
   color: #eee;
